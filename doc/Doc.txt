@@ -1,0 +1,12 @@
+Manuál:
+Uživatelské rozhraní je velmi intuitivní. Pohyb menu je realizován joystickem a potvzovacím tlačítkem SWITCH 1 a tlačítkem Zpět SWITCH 4.
+Po vstoupení do hry je pohyb opět realizován pomocí joysticku. Tlačítka mají následující funkce.
+	SWITCH 1 - Odhalení (odhalí se políčko na sořadnicích označených displayem).
+	SWITCH 2 - Označení (zvolené tlačítko se označí a tím se znemožní jeho odhalení, opětovným zmáčknutím tlačítka se označení vypne).
+	SWITCH 4 - Pozastavení hry (otevře se menu s možnostmi Continue, Restart a Main Menu).
+
+Po ukončení hry se uživateli ukáže výsledek hry(VICTORY,LOSE) a zobrazí se menu s možnostmi Main Menu a Restart.
+
+Závěr: 
+Největší problém mi činil vípis na display. Práce s TFT knihovnou sice není komplivaná, ale velice zdlouhavá.
+Nakonec jsem kvůli absenci SD karty odpustil od možnosti ukládat score.
